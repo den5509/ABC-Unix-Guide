@@ -1,6 +1,6 @@
 ---
-title: "Установка и краткое описание средств, используемых при выполнении лабораторных работ"
-permalink: /docs/s01-p00-intro/
+title: "Система управления версиями Git и GitHub"
+permalink: /docs/s01-p02-git/
 redirect_from:
   - /theme-setup/
 ---

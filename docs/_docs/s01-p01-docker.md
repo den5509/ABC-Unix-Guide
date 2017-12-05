@@ -1,6 +1,6 @@
 ---
-title: "Установка и краткое описание средств, используемых при выполнении лабораторных работ"
-permalink: /docs/s01-p00-intro/
+title: "Система управления контейнерами Docker"
+permalink: /docs/s01-p01-docker/
 redirect_from:
   - /theme-setup/
 ---
