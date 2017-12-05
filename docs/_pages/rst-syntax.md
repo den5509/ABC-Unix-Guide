@@ -1,6 +1,6 @@
 ---
 title: "Синтаксис разметки reStructuredText"
-permalink: /docs/rst-syntax/
+permalink: /rst-syntax/
 redirect_from:
   - /theme-setup/
 toc: true
