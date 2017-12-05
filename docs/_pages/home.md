@@ -9,7 +9,7 @@ feature_row:
   - image_path: /assets/images/section-1.png
     alt: "Section I"
     title: "Section I"
-    excerpt: "Установка и настройка компонентов, необходимых для выполнения лабораторных работ"
+    excerpt: "Установка и краткое описание средств, используемых при выполнении лабораторных работ"
     url: "/docs/s01-p00-foreword/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
