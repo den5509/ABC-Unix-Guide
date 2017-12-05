@@ -4,4 +4,4 @@ permalink: /docs/s02-p00-intro/
 redirect_from:
   - /theme-setup/
 ---
-1
+В данном разделе приведен пример выполнения лабораторной работы с использованием средств Docker, Docker Hub Automated Build.
