@@ -3,7 +3,7 @@ main:
   - title: "Руководство"
     url: /docs/s01-p00-foreword/
   - title: "Синтаксис reStructuredText"
-    url: /search/
+    url: /rst-syntax/
   - title: "About"
     url: /about/
   - title: "Sample Posts"
@@ -16,7 +16,7 @@ main:
 
 # documentation links
 docs:
-  - title: SECTION I Установка
+  - title: SECTION I
     children:
       - title: "Foreword"
         url: /docs/s01-p00-foreword/
@@ -32,7 +32,7 @@ docs:
         url: /docs/s01-p05-conclusion/
       - title: "References"
         url: /docs/s01-p06-references/
-  - title: SECTION II Выполнение
+  - title: SECTION II
     children:
       - title: "Foreword"
         url: /docs/s02-p00-foreword/
@@ -46,7 +46,7 @@ docs:
         url: /docs/s02-p04-conclusion/
       - title: "References"
         url: /docs/s02-p05-references/
-  - title: SECTION III Публикация
+  - title: SECTION III
     children:
       - title: "Foreword"
         url: /docs/s03-p00-foreword/
