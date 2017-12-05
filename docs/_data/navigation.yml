@@ -1,45 +1,45 @@
 ﻿# main links
 main:
   - title: "Руководство"
-    url: /docs/s01-p00-foreword/
+    url: /docs/s01-p00-intro/
   - title: "Синтаксис reStructuredText"
     url: /rst-syntax/
 
 # documentation links
 docs:
-  - title: SECTION I Установка
+  - title: SECTION I Установка ПО
     children:
-      - title: "Foreword"
-        url: /docs/s01-p00-foreword/
-      - title: "Introduction"
-        url: /docs/s01-p01-introduction/
-      - title: "Overview of the subject area and statement of the problem"
-        url: /docs/s01-p02-overview/
-      - title: "Optimization of used resources"
-        url: /docs/s01-p03-optimization/
-      - title: "Development of a research plan"
-        url: /docs/s01-p04-plan/
-      - title: "Conclusion"
-        url: /docs/s01-p05-conclusion/
-      - title: "References"
-        url: /docs/s01-p06-references/
-  - title: SECTION II Выполнение
+      - title: "Введение"
+        url: /docs/s01-p00-intro/
+      - title: "Docker"
+        url: /docs/s01-p01-docker/
+      - title: "Git | GitHub"
+        url: /docs/s01-p02-git/
+      - title: "Генератор документации Sphinx"
+        url: /docs/s01-p03-sphinx/
+      - title: "Полезные ссылки"
+        url: /docs/s01-p04-links/
+  - title: SECTION II Пример выполнения работы
     children:
-      - title: "Foreword"
-        url: /docs/s02-p00-foreword/
-      - title: "Introduction"
-        url: /docs/s02-p01-introduction/
-      - title: "Analysis of requirements"
-        url: /docs/s02-p02-requirements/
-      - title: "Description of model"
-        url: /docs/s02-p03-model/
-      - title: "Conclusion"
-        url: /docs/s02-p04-conclusion/
-      - title: "References"
-        url: /docs/s02-p05-references/
-  - title: SECTION III Публикация
+      - title: "Введение"
+        url: /docs/s02-p00-intro/
+      - title: "Создание проекта"
+        url: /docs/s02-p01-example/
+      - title: "Docker Hub | Automated Build"
+        url: /docs/s02-p02-autobuild/
+      - title: "Полезные ссылки"
+        url: /docs/s02-p03-links/
+  - title: SECTION III Создание и публикация отчетов
     children:
-      - title: "Foreword"
-        url: /docs/s03-p00-foreword/
-      - title: "Introduction"
-        url: /docs/s03-p01-introduction/
+      - title: "Введение"
+        url: /docs/s03-p00-intro/
+      - title: "Структура отчета"
+        url: /docs/s03-p01-structure/
+      - title: "Пример генерации отчета"
+        url: /docs/s03-p02-example/
+      - title: "Подготовка репозитория"
+        url: /docs/s03-p03-repo/
+      - title: "Публикация отчета"
+        url: /docs/s03-p04-publish/
+      - title: "Полезные ссылки"
+        url: /docs/s03-p05-links/
