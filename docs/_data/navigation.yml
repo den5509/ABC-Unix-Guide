@@ -2,7 +2,7 @@
 main:
   - title: "Руководство"
     url: /docs/s01-p00-foreword/
-  - title: "Search"
+  - title: "Синтаксис reStructuredText"
     url: /search/
   - title: "About"
     url: /about/
