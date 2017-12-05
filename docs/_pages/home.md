@@ -3,7 +3,6 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/home-page.png
   caption:
 excerpt: 'Методические рекомендации по выполнению лабораторных работ по дисциплине «Операционные системы GNU/Linux».'
 feature_row:
