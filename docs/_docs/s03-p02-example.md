@@ -9,7 +9,7 @@ toc: true
 
 Сгенерируем проект `report-example` при помощи команды `sphinx-quickstart`.
 
-Подробнее о создании документов в Sphinx можно найти в разделе ссылка [Sphinx](/docs/s01-p03-sphinx/)
+Подробнее о создании документов в Sphinx можно найти в разделе ссылка [Sphinx](/ABC-Unix-Guide/docs/s03-p02-example/)
 
 ## Файл конфигурации
 
