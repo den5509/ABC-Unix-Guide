@@ -3,16 +3,7 @@ main:
   - title: "Руководство"
     url: /docs/s01-p00-foreword/
   - title: "Синтаксис reStructuredText"
-    url: /docs/rst-syntax/
-  - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
-
+    url: /rst-syntax/
 
 # documentation links
 docs:
