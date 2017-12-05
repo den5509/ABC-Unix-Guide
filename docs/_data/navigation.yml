@@ -3,7 +3,7 @@ main:
   - title: "Руководство"
     url: /docs/s01-p00-foreword/
   - title: "Синтаксис reStructuredText"
-    url: /rst-syntax/
+    url: /docs/rst-syntax/
   - title: "About"
     url: /about/
   - title: "Sample Posts"
