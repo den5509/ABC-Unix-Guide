@@ -3,12 +3,13 @@ title: "Создание и публикация отчетов"
 permalink: /docs/s03-p00-intro/
 redirect_from:
   - /theme-setup/
+toc: true
 ---
 ## Создание репозитория
 
-Создадим репозиторий на GitHub-е с названием `report-example` и загрузим в него созданный ранее проект Sphinx.
+Создадим репозиторий на GitHub с названием `report-example` и загрузим в него созданный ранее проект Sphinx.
 
-Подробнее о том, как это сделать написано в разделе [git]{role="ref"}
+Подробнее о том, как это сделать написано в разделе [git](/ABC-Unix-Guide/docs/s01-p02-git/)
 
 ## Настройка репозитория
 
@@ -16,6 +17,7 @@ redirect_from:
 
 Для этого нужно перейти в репозитории во вкладку `Settings` и выбрать вкладку `Integrations & services`. Далее нажать на `Add service` и добавить службу `ReadTheDocs`.
 
-![Добавление сервиса ReadTheDocs](../../images/git1.png)
+![alt]({{ "/assets/images/git1.png" | absolute_url }})
 
-Рис. Добавление сервиса ReadTheDocs
+Рисунок 1 - Добавление сервиса ReadTheDocs
+
