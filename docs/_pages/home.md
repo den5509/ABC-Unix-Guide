@@ -12,21 +12,21 @@ feature_row:
     excerpt: "Установка и краткое описание средств, используемых при выполнении лабораторных работ"
     url: "/docs/s01-p00-intro/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "Читать далее"
   - image_path: /assets/images/section-2.png
     alt: "Section II"
     title: "Section II"
     excerpt: "Пример выполнения лабораторной работы с использованием средств Docker"
     url: "/docs/s02-p00-intro/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "Читать далее"
   - image_path: /assets/images/section-3.png
     alt: "Section III"
     title: "Section III"
     excerpt: "Создание и публикациия отчетов по лабораторным работам в виде сайта"
     url: "/docs/s03-p00-intro/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "Читать далее"
 ---
 
 {% include feature_row id="intro" type="center" %}
