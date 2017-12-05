@@ -16,7 +16,7 @@ main:
 
 # documentation links
 docs:
-  - title: SECTION I
+  - title: SECTION I Установка
     children:
       - title: "Foreword"
         url: /docs/s01-p00-foreword/
@@ -32,7 +32,7 @@ docs:
         url: /docs/s01-p05-conclusion/
       - title: "References"
         url: /docs/s01-p06-references/
-  - title: SECTION II
+  - title: SECTION II Выполнение
     children:
       - title: "Foreword"
         url: /docs/s02-p00-foreword/
@@ -46,7 +46,7 @@ docs:
         url: /docs/s02-p04-conclusion/
       - title: "References"
         url: /docs/s02-p05-references/
-  - title: SECTION III
+  - title: SECTION III Публикация
     children:
       - title: "Foreword"
         url: /docs/s03-p00-foreword/
