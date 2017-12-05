@@ -1,4 +1,20 @@
-﻿# documentation links
+﻿# main links
+main:
+  - title: "Руководство"
+    url: /docs/s01-p00-foreword/
+  - title: "Search"
+    url: /search/
+  - title: "About"
+    url: /about/
+  - title: "Sample Posts"
+    url: /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
+
+
+# documentation links
 docs:
   - title: SECTION I
     children:
