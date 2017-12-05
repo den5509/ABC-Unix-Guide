@@ -10,7 +10,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ru-RU"
 title                    : "ABC-Unix-Guide"
 title_separator          : "-"
 name                     : &name "Andrey Poznyakov" # &name is a YAML anchor which can be *referenced later
