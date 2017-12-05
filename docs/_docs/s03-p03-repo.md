@@ -1,6 +1,6 @@
 ---
-title: "Создание и публикация отчетов"
-permalink: /docs/s03-p00-intro/
+title: "Подготовка репозитория"
+permalink: /docs/s03-p03-repo/
 redirect_from:
   - /theme-setup/
 toc: true
