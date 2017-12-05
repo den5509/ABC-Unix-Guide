@@ -8,7 +8,7 @@ redirect_from:
 
 Сначала создадим **Dockerfile**, со следующим содежимым:
 
-```{.sourcecode .text}
+```bash
 #имя образа ОС
 FROM centos:7
 #
